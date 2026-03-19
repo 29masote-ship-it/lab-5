@@ -83,8 +83,8 @@ h1 {
 #wrapper{
 	width: 80%;
 	background-color: #0C5442;
-	min-width: 900 px;
-	max-width: 2050 px;
+	min-width: 900px;
+	max-width: 2050px;
 	margin: auto;
 	box-shadow: 4px 4px #133926;
 	background-image: linear-gradient(white, #0C5442);
